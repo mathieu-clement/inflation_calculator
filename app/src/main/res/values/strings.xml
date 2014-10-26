@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CHF Inflation Calculator</string>
+    <string name="textView_start">Start</string>
+    <string name="textView_end">End</string>
+    <string name="action_settings">Settings</string>
+    <string name="button_calculate">Calculate</string>
+    <string name="textView_variation_title">Variation:</string>
+
+</resources>
